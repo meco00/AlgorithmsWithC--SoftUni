@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\bin\Debug\netcoreapp3.1\PermutationsWithRepetitons.exe
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\bin\Debug\netcoreapp3.1\PermutationsWithRepetitons.deps.json
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\bin\Debug\netcoreapp3.1\PermutationsWithRepetitons.runtimeconfig.json
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\bin\Debug\netcoreapp3.1\PermutationsWithRepetitons.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\bin\Debug\netcoreapp3.1\PermutationsWithRepetitons.dll
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\bin\Debug\netcoreapp3.1\PermutationsWithRepetitons.pdb
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\obj\Debug\netcoreapp3.1\PermutationsWithRepetitons.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\obj\Debug\netcoreapp3.1\PermutationsWithRepetitons.AssemblyInfo.cs
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\obj\Debug\netcoreapp3.1\PermutationsWithRepetitons.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\obj\Debug\netcoreapp3.1\PermutationsWithRepetitons.dll
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\obj\Debug\netcoreapp3.1\PermutationsWithRepetitons.pdb
+C:\Users\Mert\source\repos\CombinatorialProblems\PermutationsWithRepetitons\obj\Debug\netcoreapp3.1\PermutationsWithRepetitons.genruntimeconfig.cache

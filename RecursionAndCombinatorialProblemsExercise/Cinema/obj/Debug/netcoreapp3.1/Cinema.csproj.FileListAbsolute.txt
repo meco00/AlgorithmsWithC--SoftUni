@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+D:\uni\programirane\softuni\Algorithms\AlgorithmsRepo\RecursionAndCombinatorialProblemsExercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache

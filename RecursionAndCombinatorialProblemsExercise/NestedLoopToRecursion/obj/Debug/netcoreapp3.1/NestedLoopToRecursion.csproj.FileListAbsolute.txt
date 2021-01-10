@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\bin\Debug\netcoreapp3.1\NestedLoopToRecursion.exe
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\bin\Debug\netcoreapp3.1\NestedLoopToRecursion.deps.json
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\bin\Debug\netcoreapp3.1\NestedLoopToRecursion.runtimeconfig.json
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\bin\Debug\netcoreapp3.1\NestedLoopToRecursion.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\bin\Debug\netcoreapp3.1\NestedLoopToRecursion.dll
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\bin\Debug\netcoreapp3.1\NestedLoopToRecursion.pdb
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\obj\Debug\netcoreapp3.1\NestedLoopToRecursion.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\obj\Debug\netcoreapp3.1\NestedLoopToRecursion.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\obj\Debug\netcoreapp3.1\NestedLoopToRecursion.AssemblyInfo.cs
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\obj\Debug\netcoreapp3.1\NestedLoopToRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\obj\Debug\netcoreapp3.1\NestedLoopToRecursion.dll
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\obj\Debug\netcoreapp3.1\NestedLoopToRecursion.pdb
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\NestedLoopToRecursion\obj\Debug\netcoreapp3.1\NestedLoopToRecursion.genruntimeconfig.cache

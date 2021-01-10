@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.exe
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.deps.json
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.runtimeconfig.json
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.dll
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.pdb
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.AssemblyInfo.cs
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.dll
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.pdb
+C:\Users\Mert\source\repos\RecursionDakov\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.genruntimeconfig.cache

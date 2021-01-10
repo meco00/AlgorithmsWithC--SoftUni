@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\bin\Debug\netcoreapp3.1\SortingAlgorithms.exe
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\bin\Debug\netcoreapp3.1\SortingAlgorithms.deps.json
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.json
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\bin\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\bin\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\obj\Debug\netcoreapp3.1\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\obj\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\obj\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\Mert\source\repos\RecursionDakov\BinarySearch\obj\Debug\netcoreapp3.1\SortingAlgorithms.genruntimeconfig.cache

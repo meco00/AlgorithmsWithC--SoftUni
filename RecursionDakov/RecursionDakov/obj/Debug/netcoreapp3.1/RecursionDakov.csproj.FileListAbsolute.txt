@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\bin\Debug\netcoreapp3.1\RecursionDakov.exe
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\bin\Debug\netcoreapp3.1\RecursionDakov.deps.json
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\bin\Debug\netcoreapp3.1\RecursionDakov.runtimeconfig.json
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\bin\Debug\netcoreapp3.1\RecursionDakov.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\bin\Debug\netcoreapp3.1\RecursionDakov.dll
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\bin\Debug\netcoreapp3.1\RecursionDakov.pdb
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\obj\Debug\netcoreapp3.1\RecursionDakov.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\obj\Debug\netcoreapp3.1\RecursionDakov.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\obj\Debug\netcoreapp3.1\RecursionDakov.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\obj\Debug\netcoreapp3.1\RecursionDakov.AssemblyInfo.cs
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\obj\Debug\netcoreapp3.1\RecursionDakov.dll
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\obj\Debug\netcoreapp3.1\RecursionDakov.pdb
+C:\Users\Mert\source\repos\RecursionDakov\RecursionDakov\obj\Debug\netcoreapp3.1\RecursionDakov.genruntimeconfig.cache

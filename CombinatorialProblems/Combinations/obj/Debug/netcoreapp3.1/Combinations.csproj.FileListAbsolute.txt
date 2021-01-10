@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\Mert\source\repos\CombinatorialProblems\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

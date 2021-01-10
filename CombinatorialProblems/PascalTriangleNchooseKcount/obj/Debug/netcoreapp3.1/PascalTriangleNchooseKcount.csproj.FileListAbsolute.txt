@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\bin\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.exe
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\bin\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.deps.json
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\bin\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.runtimeconfig.json
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\bin\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\bin\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.dll
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\bin\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.pdb
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\obj\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\obj\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.AssemblyInfo.cs
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\obj\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\obj\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.dll
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\obj\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.pdb
+C:\Users\Mert\source\repos\CombinatorialProblems\PascalTriangleNchooseKcount\obj\Debug\netcoreapp3.1\PascalTriangleNchooseKcount.genruntimeconfig.cache

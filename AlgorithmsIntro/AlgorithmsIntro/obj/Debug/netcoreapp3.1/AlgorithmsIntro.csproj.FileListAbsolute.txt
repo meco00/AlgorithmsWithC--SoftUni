@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\bin\Debug\netcoreapp3.1\AlgorithmsIntro.exe
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\bin\Debug\netcoreapp3.1\AlgorithmsIntro.deps.json
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\bin\Debug\netcoreapp3.1\AlgorithmsIntro.runtimeconfig.json
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\bin\Debug\netcoreapp3.1\AlgorithmsIntro.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\bin\Debug\netcoreapp3.1\AlgorithmsIntro.dll
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\bin\Debug\netcoreapp3.1\AlgorithmsIntro.pdb
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\obj\Debug\netcoreapp3.1\AlgorithmsIntro.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\obj\Debug\netcoreapp3.1\AlgorithmsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\obj\Debug\netcoreapp3.1\AlgorithmsIntro.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\obj\Debug\netcoreapp3.1\AlgorithmsIntro.AssemblyInfo.cs
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\obj\Debug\netcoreapp3.1\AlgorithmsIntro.dll
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\obj\Debug\netcoreapp3.1\AlgorithmsIntro.pdb
+C:\Users\Mert\source\repos\AlgorithmsIntro\AlgorithmsIntro\obj\Debug\netcoreapp3.1\AlgorithmsIntro.genruntimeconfig.cache

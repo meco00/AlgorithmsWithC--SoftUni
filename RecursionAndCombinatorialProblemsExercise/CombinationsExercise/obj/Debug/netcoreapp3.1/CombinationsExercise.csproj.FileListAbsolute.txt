@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\bin\Debug\netcoreapp3.1\CombinationsExercise.exe
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\bin\Debug\netcoreapp3.1\CombinationsExercise.deps.json
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\bin\Debug\netcoreapp3.1\CombinationsExercise.runtimeconfig.json
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\bin\Debug\netcoreapp3.1\CombinationsExercise.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\bin\Debug\netcoreapp3.1\CombinationsExercise.dll
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\bin\Debug\netcoreapp3.1\CombinationsExercise.pdb
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\obj\Debug\netcoreapp3.1\CombinationsExercise.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\obj\Debug\netcoreapp3.1\CombinationsExercise.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\obj\Debug\netcoreapp3.1\CombinationsExercise.AssemblyInfo.cs
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\obj\Debug\netcoreapp3.1\CombinationsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\obj\Debug\netcoreapp3.1\CombinationsExercise.dll
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\obj\Debug\netcoreapp3.1\CombinationsExercise.pdb
+C:\Users\Mert\source\repos\RecursionAndCombinatorialProblemsExercise\CombinationsExercise\obj\Debug\netcoreapp3.1\CombinationsExercise.genruntimeconfig.cache
